@@ -1,0 +1,25 @@
+{
+  "name": "d3.geo.tile",
+  "version": "0.0.0",
+  "description": "D3 plugin to add tiles to a d3 map",
+  "main": "index.js",
+  "author": {
+    "name": "Mike Bostock",
+    "url": "http://bost.ocks.org/mike"
+  },
+  "keywords": [
+    "d3",
+    "map",
+    "tile"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/calvein/d3.geo.tile.git"
+  },
+  "licenses": [
+    {
+      "type": "BSD",
+      "url": "https://github.com/mbostock/d3/blob/master/LICENSE"
+    }
+  ]
+}
